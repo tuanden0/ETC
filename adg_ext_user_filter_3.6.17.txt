@@ -1,0 +1,3 @@
+nhentai.net##.blacklisted.gallery
+mp4hentai.com###gridwp-head-content > div.gridwp-header-inside.clearfix
+myanimelist.net##.pda_top
